@@ -1,5 +1,6 @@
 package iteracao
-
+// In Shell run:
+// > go test -bench=.
 const quantidadeRepeticoes = 5
 
 func Repetir(caractere string) string {
